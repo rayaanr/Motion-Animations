@@ -1,9 +1,7 @@
-import PinScroll from "@/anim/pin-scroll"
+import React from 'react'
 
-export default function Home() {
+export default function page() {
   return (
-    <main>
-      <PinScroll  />
-    </main>
+    <div>page</div>
   )
 }
